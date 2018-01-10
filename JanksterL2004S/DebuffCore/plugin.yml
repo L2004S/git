@@ -1,0 +1,12 @@
+name: DebuffCore
+version: 0.7.2
+main: debuffcore.core.Core
+commands: 
+  announce:
+    usage: <command>
+  donate:
+    usage: <command>
+  crates:
+    usage: <command>
+  rankitem:
+    usage: <command>
